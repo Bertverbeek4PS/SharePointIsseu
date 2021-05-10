@@ -1,0 +1,27 @@
+{
+  "id": "81395b1f-9a97-43f4-8c65-0242e2b88848",
+  "name": "SharePointIsseu",
+  "publisher": "4PS B.V.",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Isseu with the SharePoint credentials login",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SharePointIsseu.com/help/",
+  "showMyCode": true,
+  "runtime": "8.0",
+  "target": "OnPrem"
+}
